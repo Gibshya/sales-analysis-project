@@ -1,0 +1,7 @@
+order_id,customer,region,amount,month
+1,A,North,500,Jan
+2,B,South,200,Jan
+3,A,North,300,Feb
+4,C,East,700,Feb
+5,B,South,400,Feb
+6,D,North,150,Jan
